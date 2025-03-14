@@ -20,6 +20,12 @@ function Compras() {
 
         <Input type="text" label="CEP + Informações endereço:" />
 
+        <Input type="text" label="Cidade:"/>
+
+        <Input type="text" label="Bairro:" />
+        
+        <Input type="text" label="Complemento:>" />
+
         <Button path="/finalizar-compra">Concluir pedido</Button>
       </form>
     </div>
