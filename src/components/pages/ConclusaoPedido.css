@@ -1,0 +1,17 @@
+.buttons {
+  margin-top: 10rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.subtitle-2 {
+  font-size: 15px;
+}
+
+@media (min-width: 1024px) {
+  .buttons{
+    width: 30%;
+  }
+}

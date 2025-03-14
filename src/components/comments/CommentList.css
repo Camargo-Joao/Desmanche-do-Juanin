@@ -1,0 +1,15 @@
+.comment {
+  display: grid;
+  justify-items: center;
+  width: 100%;
+}
+
+.comment ul {
+  list-style: none;
+  text-align: left;
+  border-radius: 12px;
+  width: 90%;
+  padding: 1rem;
+  background-color: #8bbed6;
+  color: #0a0711;
+}

@@ -1,0 +1,33 @@
+.footer {
+  padding: 3em 0 1em 0;
+  background-color: #8bbed6;
+  text-align: center;
+  margin-top: 1%;
+}
+
+.footer ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer ul li {
+  list-style: none;
+  padding: 0 1em;
+}
+
+.link {
+  font-size: 1.5em;
+  color: #0a0711;
+  transition: 0.2s;
+}
+
+.link:hover {
+  font-size: 1.5em;
+  color: #fed224;
+} 
+
+.dev {
+  font-size: x-small;
+}
