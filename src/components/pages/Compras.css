@@ -20,10 +20,14 @@
   .subtitle {
     font-size: medium;
   }
+
+  .unir_inputs {
+    
+  }
   
   @media (min-width: 1025px) {
     .formulario {
-      width: 30%;
+      width: 40%;
       margin-top: 0;
     }
   }
