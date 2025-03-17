@@ -5,7 +5,7 @@ import Button from "../layout/ui/Button";
 import "./Compras.css";
 
 function validarform() {
-  input = document.getElementsByClassName("input-content").value
+  const input = document.getElementsByClassName("input-content").value
 
   if(input != null) {
     window.open()
