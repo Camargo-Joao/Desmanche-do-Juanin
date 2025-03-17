@@ -26,7 +26,7 @@ function Compras() {
         
         <Input type="text" label="Complemento:>" />
 
-        <Button path="/finalizar-compra">Concluir pedido</Button>
+        <Button path="/finalizar-compra">Concluir pedidossssfsdf</Button>
       </form>
     </div>
   );
