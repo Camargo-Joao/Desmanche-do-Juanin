@@ -4,9 +4,9 @@ import "./Input.css";
 
 function Input(props) {
   return (
-    <div className={`input-content ${props.togg}`}>
+    <div className={`input-content`}>
       <label>{props.label}</label>
-      <input type={props.type} required />
+      <input className="inputs" type={props.type} required />
     </div>
   );
 }
