@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "../layout/ui/Button";
 import Input from "../layout/ui/Input.js";
 
 import "./Contato.css";
