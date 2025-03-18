@@ -3,6 +3,7 @@ import Button from "../layout/ui/Button";
 import Input from "../layout/ui/Input.js";
 
 import "./Contato.css";
+import Validation from "../layout/validation/Validation.js";
 
 function Contato() {
   return (
@@ -16,9 +17,7 @@ function Contato() {
 
         <Input type="number" label="Telefone:" />
 
-        <Button path="/agradecimento" type="submit">
-          Enviar
-        </Button>
+        <Validation path="/agradecimento" msg="Enviar"/>
       </form>
     </div>
   );

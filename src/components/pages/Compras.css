@@ -24,14 +24,6 @@
   .unir_inputs {
     
   }
-
-  .campo-cheio {
-    display: none;
-  }
-
-  .campo-vazio {
-    color: #db0000;
-  }
   
   @media (min-width: 1025px) {
     .formulario {
