@@ -1,0 +1,7 @@
+.campo-cheio {
+    display: none;
+  }
+
+  .campo-vazio {
+    color: #db0000;
+  }
